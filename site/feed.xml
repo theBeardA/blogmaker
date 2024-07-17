@@ -11,6 +11,15 @@
   </image>
 
 <item>
+<title>Second Page</title>
+<link>http://localhost/./posts/2100/07/17/secondPage.html</link>
+<guid>http://localhost/./posts/2100/07/17/secondPage.html</guid>
+<pubDate>Sat, 17 Jul 2100 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
 <title>Hello world</title>
 <link>http://localhost/./posts/2024/07/17/hello.html</link>
 <guid>http://localhost/./posts/2024/07/17/hello.html</guid>
