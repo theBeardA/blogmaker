@@ -1,4 +1,4 @@
-[category]: <> (New Category)
+[category]: <> (NewCategory)
 [date]: <> (2100/07/17)
 [title]: <> (Second Page)
 
